@@ -1,0 +1,7 @@
+D:\C#Learning\Labs\Lab04General\Control Task 04\TriangleSquareMethod\TriangleSquareMethod\obj\Debug\TriangleSquareMethod.csproj.AssemblyReference.cache
+D:\C#Learning\Labs\Lab04General\Control Task 04\TriangleSquareMethod\TriangleSquareMethod\obj\Debug\TriangleSquareMethod.csproj.CoreCompileInputs.cache
+D:\C#Learning\Labs\Lab04General\Control Task 04\TriangleSquareMethod\TriangleSquareMethod\bin\Debug\TriangleSquareMethod.exe.config
+D:\C#Learning\Labs\Lab04General\Control Task 04\TriangleSquareMethod\TriangleSquareMethod\bin\Debug\TriangleSquareMethod.exe
+D:\C#Learning\Labs\Lab04General\Control Task 04\TriangleSquareMethod\TriangleSquareMethod\bin\Debug\TriangleSquareMethod.pdb
+D:\C#Learning\Labs\Lab04General\Control Task 04\TriangleSquareMethod\TriangleSquareMethod\obj\Debug\TriangleSquareMethod.exe
+D:\C#Learning\Labs\Lab04General\Control Task 04\TriangleSquareMethod\TriangleSquareMethod\obj\Debug\TriangleSquareMethod.pdb
